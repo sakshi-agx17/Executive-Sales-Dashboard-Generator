@@ -6,7 +6,7 @@ A professional Python tool that creates stunning, executive-ready Excel dashboar
 ## 📸 Output Preview
 
 ### Dashboard Overview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](output.png)
 
 ## 🎯 Features
 
