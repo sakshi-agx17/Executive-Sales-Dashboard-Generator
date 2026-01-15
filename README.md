@@ -3,6 +3,10 @@
 A professional Python tool that creates stunning, executive-ready Excel dashboards.
 
 ---
+## 📸 Output Preview
+
+### Dashboard Overview
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ## 🎯 Features
 
